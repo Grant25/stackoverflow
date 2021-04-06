@@ -1,4 +1,4 @@
-This is the ReadMe File for the example 
+This is the ReadMe File for the Data Scientist Nano Degree with Udacity: Lesson 1
 
 ### Table of Contents
 
